@@ -1,0 +1,7 @@
+Method,Accuracy (%),AUROC,C-score,Delta vs Best (%)
+phi3.5-mini,100.0,0.5,0.0,0.0
+Best Individual (phi3.5-mini),100.0,-,-,0.0
+Majority Voting,100.0,-,-,0.0
+UAF (Perplexity),100.0,-,-,0.0
+UAF (Haloscope),100.0,-,-,0.0
+UAF (Semantic),100.0,-,-,0.0

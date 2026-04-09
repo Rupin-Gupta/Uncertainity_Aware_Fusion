@@ -1,0 +1,6 @@
+method,accuracy
+Best Individual (phi3.5-mini),100.0
+Majority Voting,100.0
+UAF (Perplexity),100.0
+UAF (Haloscope),100.0
+UAF (Semantic),100.0
